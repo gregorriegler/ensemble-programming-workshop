@@ -15,6 +15,7 @@
     - Idea: Ask organizers for a few laptops
 - 5 min retro in small ensembles
 - 15 min big retro
+    - Call to action (Start an ensemble at work, join existing ensembles, etc.)
 - 5 min clean up the room (participants return chairs)
 
 
