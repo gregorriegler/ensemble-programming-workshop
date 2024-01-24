@@ -21,15 +21,13 @@ Nitsan, Israeli in Malaga, has been in Software for 16 years, working as a Softw
 
 ### Gregor Riegler
 
-inbox
+![img](https://gregorriegler.com/assets/img/Portrait.jpg)
 
-- Portrait
-
-Based in Vienna, Gregor likes improving things, and always seeks to improve them even more. In the pusuit of joy .Creative, fulfulling work. Because of this - Ensemble Programming has sparked his interest in particular. Member of the Samman Technical Coaching Society, a Technical Coach, and a Principle Software Engineer at Tricentis.
+Gregor's passion for learning and making things better has led him to develop a particular interest in Ensemble Programming. He is an active member of the Samman Technical Coaching Society and serves as a Technical Coach and Principal Software Engineer at Tricentis.
 
 ## About The Workshop
 
-Hands on practical workshop practicing working together as a team on a single thing.
+A hands-on workshop focused on collaborative coding, where participants work as a team on a single thing. It emphasizes that the true power of ensemble programming cannot be merely explained—it must be experienced firsthand. Participants will feel the unstoppable momentum and strength derived from pooling group knowledge, leading to increased productivity, enhanced quality, and an amplified learning experience for everyone involved.
 
 ## Audience
 
@@ -42,7 +40,8 @@ The workshop works well for audiences of any size larger than 3. Recently we gav
 - Get into the flow of getting things done.
 - Have fun solving a problem together leveraging peoples diverse skills.
 - Discover how ensemble programming amplifies learning.
-- Although the workshop is in person, ensemble programming is a great way for teams to collaborate remotely.
+- Practice communication
+- Although the workshop is in person, ensemble programming is a great way for teams to collaborate remotely, too.
 
 ## What to expect?
 
