@@ -22,6 +22,7 @@ Nitsan, Israeli in Malaga, has been in Software for 16 years, working as a Softw
 ### Gregor Riegler
 
 ![img](https://gregorriegler.com/assets/img/Portrait.jpg)
+[gregorriegler.com](https://gregorriegler.com/)
 
 Gregor's passion for learning and making things better has led him to develop a particular interest in Ensemble Programming. He is an active member of the Samman Technical Coaching Society and serves as a Technical Coach and Principal Software Engineer at Tricentis.
 
@@ -50,6 +51,10 @@ The workshop works well for audiences of any size larger than 3. Recently we gav
 - Fun
 - Time to reflect
 - Get inspired
+
+
+## References
+Nitsan and Gregor have extensive experience not only working in Ensembles but also in facilitating and delivering Ensemble Programming Workshops on numerous occasions.
 
 ## Inbox
 Reference: https://www.youtube.com/watch?v=T_sx05-W4Lw&ab_channel=PyData
