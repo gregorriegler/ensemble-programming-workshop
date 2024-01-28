@@ -39,6 +39,8 @@ Recently we gave it to groups with 35, 80, 9 people with very positive feedback.
 
 ### Nitsan Avni
 
+![img](./assets/nitsan-portrait.jpg)
+
 Ever since trying Ensemble Programming, Nitsan has become a proponent of it. A Software Developer and Samman Technical Coach at Gigablue, most of all he likes to learn new things - currently it's the unicycle. ChatGPT addict.
 
 ### Gregor Riegler
