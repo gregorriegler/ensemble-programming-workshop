@@ -9,12 +9,13 @@ Ensemble Programming is a modern progression to the XP practices. It's a whole-t
 
 ## Ensemble Programming Workshop
 
-A hands-on workshop focused on collaborative coding, where participants work as a team on a single thing. It emphasizes that the true power of ensemble programming cannot be merely explained—it must be experienced firsthand. Participants will feel the unstoppable momentum and strength derived from pooling group knowledge, leading to increased productivity, enhanced quality, and an amplified learning experience for everyone involved.
+A hands-on workshop focused on collaborative coding, where participants work as a team on a single thing. It emphasizes that the true power of ensemble programming cannot be merely explained—it must be experienced firsthand. Participants will feel the unstoppable momentum and strength derived from group knowledge, leading to increased productivity, enhanced quality, and an amplified learning experience for everyone involved. This format works well in a 120 min timeframe.
 
 ## Audience
 
-Everybody is invited, developers and non-developers.
-The workshop works well for audiences of any size larger than 3. Recently we gave it to groups with 35, 80, 9 people with very positive feedback.
+Everybody is invited, developers as well as non-developers.
+The workshop works well for audiences of any size larger than 3. 
+Recently we gave it to groups with 35, 80, 9 people with very positive feedback.
 
 ## Why join?
 
@@ -22,7 +23,7 @@ The workshop works well for audiences of any size larger than 3. Recently we gav
 - Get into the flow of getting things done.
 - Have fun solving a problem together leveraging peoples diverse skills.
 - Discover how ensemble programming amplifies learning.
-- Practice communication
+- Practice clear communication.
 - Although the workshop is in person, ensemble programming is a great way for teams to collaborate remotely, too.
 
 ## What to expect?
@@ -56,10 +57,8 @@ Gregor's passion for learning and making things better has led him to develop a 
 ## References
 Nitsan and Gregor have extensive experience not only working in Ensembles but also in facilitating and delivering Ensemble Programming Workshops.
 
-## Inbox
-Reference: https://www.youtube.com/watch?v=T_sx05-W4Lw&ab_channel=PyData
-Testimonials (LinkedIn post),
-https://www.linkedin.com/posts/emilybache_i-would-like-to-thank-emily-bache-and-nitsan-activity-7140617222451834880-BuD4/?utm_source=share&utm_medium=member_desktop
-
-Links to Workshops we gave
-Aiming for a 120 min slot
+- [Ensemble Programming Workshop at PyConDE 2023](https://www.youtube.com/watch?v=T_sx05-W4Lw)
+- [Hands-On Remote Ensemble Programming Facilitation on the Global Day of **Continuous** Coderetreat 2022](https://coderlevelup.org/globaldayofcoderetreat2022-48hr)
+- [Introduce Ensemble Workshop by Emily Bache and Nitsan Avni - Testimonial](https://www.linkedin.com/feed/update/urn:li:activity:7140466077238538242/)
+- [Facilitation of a Mob Programming Session on the GDCR 2023 in Vienna, Austria](https://gregorriegler.com/speaking)
+- and more ...
