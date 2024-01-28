@@ -39,14 +39,7 @@ Recently we gave it to groups with 35, 80, 9 people with very positive feedback.
 
 ### Nitsan Avni
 
-inbox
-
-- Samman (with link)
-- Current job
-- Portrait
-![img](./assets/nitsan-portrait.jpg)
-
-Nitsan, Israeli in Malaga, has been in Software for 16 years, working as a Software Developer, Engineering Manager and Technical Coach. Most of all he likes to learn new things - currently it's the unicycle. Ensemble Programming has made a huge change in the way he approaches his work. ChatGPT addict.
+Ever since trying Ensemble Programming, Nitsan has become a proponent of it. A Software Developer and Samman Technical Coach at Gigablue, most of all he likes to learn new things - currently it's the unicycle. ChatGPT addict.
 
 ### Gregor Riegler
 
