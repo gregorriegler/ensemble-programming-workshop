@@ -10,7 +10,7 @@ Ensemble Programming is a modern progression to the XP practices. It's a whole-t
 ## Ensemble Programming Workshop
 
 Experience firsthand a hands-on workshop focused on collaborative coding, where participants work as a team on a single thing. Feel the unstoppable momentum and strength derived from group knowledge, leading to increased productivity, enhanced quality, and an amplified learning experience for everyone involved.  
-This format works well in a 120 min timeframe.
+This format works well in a 120 minutes timeframe.
 
 ## Audience
 
