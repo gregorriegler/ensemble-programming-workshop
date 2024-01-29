@@ -10,11 +10,13 @@ Ensemble Programming is a modern progression to the XP practices. It's a whole-t
 ## Ensemble Programming Workshop
 
 Experience firsthand a hands-on workshop focused on collaborative coding, where participants work as a team on a single thing. Feel the unstoppable momentum and strength derived from group knowledge, leading to increased productivity, enhanced quality, and an amplified learning experience for everyone involved.  
-This format works well in a 120 minutes timeframe.
+This format works well in a 120 minutes timeframe. 
+Participants can choose the programming language for the workshop. 
+We suggest CSharp, considering its familiarity to our expected audience, but we're open to alternatives based on group preference.
 
 ## Audience
 
-Everybody is invited, developers as well as non-developers.
+We welcome everyone, from seasoned developers to those without any development experience.
 The workshop works well for audiences of any size larger than 3. 
 Recently we did it with groups of 9, 35 and even 80 people with very positive feedback.
 
@@ -58,3 +60,12 @@ Nitsan and Gregor have extensive experience not only working in Ensembles but al
 - [Introduce Ensemble Workshop by Emily Bache and Nitsan Avni - Testimonial](https://www.linkedin.com/feed/update/urn:li:activity:7140466077238538242/)
 - [Facilitation of a Mob Programming Session on the GDCR 2023 in Vienna, Austria](https://gregorriegler.com/speaking)
 - and more ...
+
+
+# Inbox
+
+Detailed Agenda: Provide a more detailed agenda or schedule for the workshop, including time slots for each activity (e.g., demo time, hands-on practice, reflection time). This will help participants manage their expectations and understand how the 120 minutes will be utilized.
+
+While CSharp is suggested, mentioning alternative programming  (F#, javascript)
+
+Make explicit that no preparation is needed!
