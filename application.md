@@ -16,7 +16,7 @@ This format works well in a 120 minutes timeframe.
 
 Everybody is invited, developers as well as non-developers.
 The workshop works well for audiences of any size larger than 3. 
-Recently we gave it to groups with 35, 80, 9 people with very positive feedback.
+Recently we did it with groups of 9, 35 and even 80 people with very positive feedback.
 
 ## Why join?
 
