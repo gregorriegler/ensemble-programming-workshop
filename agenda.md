@@ -28,40 +28,20 @@
 - 1 more mobile Microphone for Audience
 - Ability to rearrange chairs
 
-#### ChatGPT Agenda
+#### ChatGPT Agenda (Goal: Something for the application)
 
 # Ensemble Programming Workshop Agenda (120 Minutes)
 
 ## Introduction (5 minutes)
-### Welcome and Overview
-- Briefly greet participants and provide an overview of the workshop.
-
-## Theoretical Framework (10 minutes)
-### Essentials of Ensemble Programming
-- A concise overview covering the key principles, roles, and benefits of Ensemble Programming.
-
-## Demo Session (10 minutes)
-### Live Demonstration
-- A quick demonstration by facilitators showing a session of Ensemble Programming.
-
-## Hands-On Ensemble Session - Whole Group (35 minutes)
-### Whole Group Ensemble Coding
+## Live Demo (10 minutes)
+- A quick demonstration by facilitators showing Ensemble Programming in action.
+## Conclusion with the Audience (10 minutes)
+- Asking the Audience what they observed.
+## Hands-On Ensemble Session - Whole Audience (30 minutes)
 - Engage the entire group in a collaborative Ensemble Programming task, allowing everyone to participate and observe the process in a large group setting.
-
-## Hands-On Ensemble Session - Small Groups (45 minutes)
-### Setting Up Small Groups
-- Organize participants into smaller groups and set up their workstations.
-### Small Group Ensemble Coding Practice
-- Participants work in their small groups on Ensemble Programming tasks, rotating roles and collaborating closely.
-### Group Debrief
-- Each group briefly shares their experience, challenges, and insights.
-
-## Reflection and Q&A (15 minutes)
-### Group Reflection
-- Encourage participants to reflect on what they've learned and how they can apply it.
-### Q&A Session
-- Time for participants to ask questions and for facilitators to provide further insights.
-
-## Conclusion (5 minutes)
-### Wrap-Up and Feedback
-- Conclude the workshop by summarizing key takeaways, thanking participants, and guiding them on how to provide feedback.
+## Retrospective (5 minutes)
+## Hands-On Ensemble Session - Small Groups (40 minutes)
+## Group Retrospectives (5 minutes)
+## Group Debrief (10 min)
+- Groups briefly share their experience, challenges, and insights to everyone.
+## Conclusion & QnA (5 minutes)
