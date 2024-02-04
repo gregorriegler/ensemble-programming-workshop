@@ -37,6 +37,26 @@ Recently we did it with groups of 9, 35 and even 80 people with very positive fe
 - Time to reflect
 - Get inspired
 
+## Agenda
+### Part 1: Take the Group on their Hand
+#### Introduction (5 minutes)
+#### Live Demo (10 minutes)
+- A quick demonstration by facilitators showing Ensemble Programming in action.
+- Will use the language most would be familiar with. E.g. CSharp.
+#### Conclusion with the Audience (10 minutes)
+- Asking the Audience what they observed.
+#### Hands-On Ensemble Session - Whole Audience (30 minutes)
+- Engage the entire group in a collaborative Ensemble Programming task, allowing everyone to participate and observe the process in a large group setting.
+#### Retrospective (5 minutes)
+### Part 2: Self-Organizing and getting hands dirty
+#### Hands-On Ensemble Session - Small Groups (40 minutes)
+#### Group Retrospectives (5 minutes)
+#### Group Debrief (10 min)
+- Groups briefly share their experience, challenges, and insights to everyone.
+#### Conclusion & QnA (5 minutes)
+
+
+
 ## About Us
 
 ### Nitsan Avni
@@ -60,12 +80,3 @@ Nitsan and Gregor have extensive experience not only working in Ensembles but al
 - [Introduce Ensemble Workshop by Emily Bache and Nitsan Avni - Testimonial](https://www.linkedin.com/feed/update/urn:li:activity:7140466077238538242/)
 - [Facilitation of a Mob Programming Session on the GDCR 2023 in Vienna, Austria](https://gregorriegler.com/speaking)
 - and more ...
-
-
-# Inbox
-
-Detailed Agenda: Provide a more detailed agenda or schedule for the workshop, including time slots for each activity (e.g., demo time, hands-on practice, reflection time). This will help participants manage their expectations and understand how the 120 minutes will be utilized.
-
-While CSharp is suggested, mentioning alternative programming  (F#, javascript)
-
-Make explicit that no preparation is needed!
