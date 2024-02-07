@@ -15,22 +15,22 @@ This format works well in a 120 minutes timeframe.
 ## Audience
 
 We welcome everyone, from seasoned developers in any stack to those without any development experience.
-The workshop works well for audiences of any size larger than 3. 
-Recently we did it with groups of 9, 35 and even 80 people with very positive feedback.
+The workshop works well for audiences of any size larger than three. 
+Recently we did it with groups of nine, 35 and even 80 people with very positive feedback.
 
 ## Why join?
 
 - Learn to work effectively as a team.
 - Get into the flow of getting things done.
-- Have fun solving a problem together leveraging peoples diverse skills.
-- Discover how ensemble programming amplifies learning.
+- Have fun solving a problem together leveraging people's diverse skills.
+- Discover how Ensemble Programming amplifies learning.
 - Practice clear communication.
-- Although the workshop is in person, ensemble programming is a great way for teams to collaborate remotely, too.
+- Although the workshop is in person, Ensemble Programming is a great way for teams to collaborate remotely, too.
 
 ## What to expect?
 
-- See a demo of experienced ensemble programmers
-- Guided hands on practice in an ensemble
+- See a demo of experienced Ensemble Programmers
+- Guided hands-on practice in an Ensemble
 - Fun
 - Time to reflect
 - Get inspired
