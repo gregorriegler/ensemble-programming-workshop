@@ -5,18 +5,16 @@
   and at the same computer.  
   ~Woody Zuill
 
-Ensemble Programming is a modern progression to the XP practices. It's a whole-team approach to software development. 
+Ensemble Programming is a modern progression to the XP practices. It is a whole-team approach to software development. 
 
 ## Ensemble Programming Workshop
 
 Experience firsthand a hands-on workshop focused on collaborative coding, where participants work as a team on a single thing. Feel the unstoppable momentum and strength derived from group knowledge, leading to increased productivity, enhanced quality, and an amplified learning experience for everyone involved.  
 This format works well in a 120 minutes timeframe. 
-Participants can choose the programming language for the workshop. 
-We suggest CSharp, considering its familiarity to our expected audience, but we're open to alternatives based on group preference.
 
 ## Audience
 
-We welcome everyone, from seasoned developers to those without any development experience.
+We welcome everyone, from seasoned developers in any stack to those without any development experience.
 The workshop works well for audiences of any size larger than 3. 
 Recently we did it with groups of 9, 35 and even 80 people with very positive feedback.
 
@@ -38,24 +36,21 @@ Recently we did it with groups of 9, 35 and even 80 people with very positive fe
 - Get inspired
 
 ## Agenda
-### Part 1: Take the Group on their Hand
-#### Introduction (5 minutes)
-#### Live Demo (10 minutes)
-- A quick demonstration by facilitators showing Ensemble Programming in action.
-- Will use the language most would be familiar with. E.g. CSharp.
-#### Conclusion with the Audience (10 minutes)
-- Asking the Audience what they observed.
-#### Hands-On Ensemble Session - Whole Audience (30 minutes)
-- Engage the entire group in a collaborative Ensemble Programming task, allowing everyone to participate and observe the process in a large group setting.
-#### Retrospective (5 minutes)
-### Part 2: Self-Organizing and getting hands dirty
-#### Hands-On Ensemble Session - Small Groups (40 minutes)
-#### Group Retrospectives (5 minutes)
-#### Group Debrief (10 min)
-- Groups briefly share their experience, challenges, and insights to everyone.
-#### Conclusion & QnA (5 minutes)
 
+### Part 1: Guided Ensemble
 
+- Introduction (5 minutes)
+- Live Ensemble with Whole Audience (15 minutes)
+- Mid-session Discussion (10 minutes)
+- Live Ensemble with Whole Audience - Continued (25 minutes)
+- Retro (5 minutes)
+
+### Part 2: Ensemble Sessions in Small Groups
+
+- Work (40 minutes)
+- Retro in Each Group (5 minutes)
+- Groups share their experience (10 min)
+- Conclusion and Q&A (5 minutes)
 
 ## About Us
 
