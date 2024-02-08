@@ -62,7 +62,7 @@ Ever since trying Ensemble Programming, Nitsan has become a proponent of it. A S
 
 ### Gregor Riegler
 
-![img](https://gregorriegler.com/assets/img/Portrait.jpg)
+<img align="right" width="25%" src="https://gregorriegler.com/assets/img/Portrait.jpg">
 [gregorriegler.com](https://gregorriegler.com/)
 
 Gregor's passion for learning and making things better has led him to develop a particular interest in Ensemble Programming. He is an active member of the Samman Technical Coaching Society and serves as a Technical Coach and Principal Software Engineer at Tricentis.
