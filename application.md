@@ -54,27 +54,27 @@ Recently we did it with groups of nine, 35 and even 80 people with very positive
 
 ## About Us
 
-<img align="right" width="25%" src="./assets/nitsan-portrait.jpg">
-
-### Nitsan Avni
+### Nitsan Avni <img align="right" width="20%" src="./assets/nitsan-portrait.jpg">
 
 Ever since trying Ensemble Programming, Nitsan has become a proponent of it. A Software Developer and Samman Technical Coach at Gigablue, most of all he likes to learn new things - currently it's the unicycle. ChatGPT addict.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-
-
-
-
-
-
-
-
-<img align="right" width="25%" src="https://gregorriegler.com/assets/img/Portrait.jpg">
-
-### Gregor Riegler
+### Gregor Riegler <img align="right" width="20%" src="https://gregorriegler.com/assets/img/Portrait.jpg">
 
 Gregor's passion for learning and making things better has led him to develop a particular interest in Ensemble Programming. He is an active member of the Samman Technical Coaching Society and serves as a Technical Coach and Principal Software Engineer at Tricentis.
 
 [gregorriegler.com](https://gregorriegler.com/)
+
+<br>
+<br>
+<br>
+<br>
 
 ## References
 Nitsan and Gregor have extensive experience not only working in Ensembles but also in facilitating and delivering Ensemble Programming Workshops.
